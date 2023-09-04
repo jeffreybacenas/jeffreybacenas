@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Acenas</h1>
-<h3 align="center">A passionate Full stack developer from PH</h3>
+<h3 align="center">A passionate Full stack developer from Philippines</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
